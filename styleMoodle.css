@@ -1,0 +1,31 @@
+.divPai1 {
+    background-color:#F4A460; 
+    width: 500px; 
+    height: 500px;
+}
+
+.divFilho1 {
+    background-color: #98FB98; 
+    height: 50%; 
+    width: 50%;
+}
+
+.paragrafoFilho {
+    color: white; 
+    background-color: red; 
+    font-size: 25px; 
+    font-style: monospace; 
+    font-weight: bold;
+}
+
+.divPai2 {
+    height: 50%; 
+    width: 50%; 
+    background-color: rgb(91, 254, 254);
+}
+
+.divFilho2 {
+    width: 75%; 
+    height: 50%; 
+    background-color: rgb(255, 0, 0);
+}
