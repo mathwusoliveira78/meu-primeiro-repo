@@ -1,4 +1,4 @@
-# meu-primeiro-repo
+# meu-primeiro-repositorio
 Este e meu primeiro repositorio
 
 
